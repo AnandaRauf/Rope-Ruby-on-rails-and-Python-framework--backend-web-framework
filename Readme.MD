@@ -8,6 +8,11 @@ Developed date : 08-09 September 2020.
 
 English version :
 
+Feature : 
+
+- ConnectDB,CreateDB,CreateTB (RopePy and RopeRb)
+- Restapi (RopePy and RopeRb)
+
 How to Using :
 
 - Open folder AutoRunningCMD/AutoRunningCMD/AutoRunningCMD/bin/release
@@ -29,6 +34,11 @@ For contribute project :
 - Enjoy modify ^-^.
 
 Indonesian version :
+
+Fitur : 
+
+- KonekDB,BuatDB,BuatTbDB (RopePy dan RobeRB)
+- Restapi(RopePy dan RobeRB)
 
 Cara pakai :
 - Buka folder AutoRunningCMD di folder AutoRunningCMD, jika ingin langsung excute Rope backend web framework di Cmd / terminal.
