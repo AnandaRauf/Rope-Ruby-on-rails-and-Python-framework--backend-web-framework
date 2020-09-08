@@ -1,0 +1,11 @@
+
+C:\Users\Ananda Rauf Maududi\source\repos\bot_auto_buat_database_tabel_mysql_xampp\bot_auto_buat_database_tabel_mysql_xampp>cd C:/Users\Ananda Rauf Maududi\source\repos\bot_auto_buat_database_tabel_mysql_xampp\bot_auto_buat_database_tabel_mysql_xampp\RoarDB 
+
+C:\Users\Ananda Rauf Maududi\source\repos\bot_auto_buat_database_tabel_mysql_xampp\bot_auto_buat_database_tabel_mysql_xampp\RoarDB>rails new db_testRB -d mysql 
+       exist  
+   identical  README.md
+   identical  Rakefile
+   identical  .ruby-version
+   identical  config.ru
+    conflict  .gitignore
+▽
