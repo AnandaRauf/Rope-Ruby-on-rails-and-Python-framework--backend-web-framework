@@ -2,7 +2,7 @@ Rope backend web framework dan Auto Run CMD version 1.0
 
 Developed by : Ananda Rauf Maududi.
 Developed date : 08-09 September 2020.
-![alt text][https://github.com/AnandaRauf/Rope-Ruby-on-rails-and-Python-framework--backend-web-framework/blob/master/rope-picsay.jpeg]
+![alt text][https://raw.githubusercontent.com/AnandaRauf/Rope-Ruby-on-rails-and-Python-framework--backend-web-framework/master/rope-picsay.jpeg]
 
 ---------------------------------------------------------------------------------------------------------------------------
 
